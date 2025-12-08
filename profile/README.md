@@ -13,18 +13,17 @@ The Manowar protocol introduces a new paradigm for exponential deAI composabilit
   </Card>
 </CardGroup>
 
-## The "x402-Native" Platform
+##"x402-Native" Platform
 
 Our platform is "x402-native," meaning every interaction is a machine-payable HTTP request. You don't sign transactions manually; the agents do it for you.
 
 ### accessible to Everyone (ERC-4337)
-You do **not** need to be a crypto expert to use Compose.Market.
 Thanks to **ERC-4337 Account Abstraction** and **Gas Sponsorship**:
 *   **No Extension Needed**: You don't need MetaMask or Phantom.
-*   **Social Login**: Log in with Google, Github, or Email.
+*   **Social Login**: Log in with Google, Github, or Socials.
 *   **Gasless**: We pay the network fees. You only pay for the AI inference itself (in credits or USDC).
 
-This is the power of true **Account Abstraction**: complex crypto operations happen seamlessly in the background.
+All complex crypto operations happen seamlessly in the background.
 
 ## Core Innovations
 
