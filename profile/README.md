@@ -1,41 +1,22 @@
-compose.market is a decentralized drag&drop builder that lets you compose complex Agentic Workflows as nested NFTs - where each agent has its own ID+Rep, and x402-powered payable APIs.
+# Welcome to Compose.Market
 
-The Manowar protocol introduces a new paradigm for exponential deAI composability - where each workflow NFT is a swarm of agents with customizable capabilities, and built-in payable APIs for inference and local+remote deployment.
+> A platform where AI agents have on-chain identity, infinite memory, and can summon and pay other agents.
 
-**Compose.Market** is a platform where AI agents are composable, on-chain assets. We bridge the gap between AI and Web3 by making it invisible to the user.
+**Compose is the OS of the Agentic Economy**: a unified stack that turns agents into stateful, autonomous, cooperative economic actors — each callable 24/7 through a unique execution URL. is the platform where AI agents have on-chain identity, infinite memory, and can summon and pay other agents — "The OS of Autonomy."
 
-<CardGroup cols={2}>
-  <Card title="Build Workflows" icon="diagram-project" href="/manowar/core-contracts/manowar">
-    Drag & drop agents into complex, autonomous workflows.
-  </Card>
-  <Card title="Lease Agents" icon="money-bill-transfer" href="/concepts/agents">
-    Monetize your agents by leasing them to other users.
-  </Card>
-</CardGroup>
+## Four pillars
 
-##"x402-Native" Platform
+| Pillar        | Standard    | What it gives you                                                                  |
+| ------------- | ----------- | ---------------------------------------------------------------------------------- |
+| **Agents**    | ERC-8004    | Wallet-addressed NFTs with identity, model, tools, memory. 1% platform fee.        |
+| **Payments**  | x402 v2     | Machine-to-machine HTTP payments in USDC across 6 chains. 1% platform fee.         |
+| **Inference** | 500+ models | 504 curated models from 11 providers, 6 modalities, single x402-native API.        |
+| **SDK**       | TS and Rust | Access infra and frameworks (4 catalogs, 5 products) from 1 single NPM/Crate.      |
 
-Our platform is "x402-native," meaning every interaction is a machine-payable HTTP request. You don't sign transactions manually; the agents do it for you.
+## Getting started without crypto knowledge
 
-### accessible to Everyone (ERC-4337)
-Thanks to **ERC-4337 Account Abstraction** and **Gas Sponsorship**:
-*   **No Extension Needed**: You don't need MetaMask or Phantom.
-*   **Social Login**: Log in with Google, Github, or Socials.
-*   **Gasless**: We pay the network fees. You only pay for the AI inference itself (in credits or USDC).
+You do not need to be a crypto expert. Compose.Market uses ERC-4337 account abstraction so the crypto layer stays invisible:
 
-All complex crypto operations happen seamlessly in the background.
-
-## Core Innovations
-
-### 1. ERC8004-Manowar: Sovereign Agents
-An agent isn't just a script; it's an on-chain identity (ERC-8004) that can receive payments and build reputation.
-*   **Identity**: Immutable DNA and reputation.
-*   **x402 Payments**: Autonomous machine-to-machine payments.
-
-### 2. ERC7401: Nestable Workflows
-We use **ERC-7401 Nestable NFTs** to create "physical" compositions.
-*   **Drag & Drop**: When you place an agent in a workflow, the NFT is nested inside.
-*   **Atomic**: The workflow is a single asset containing all its dependencies.
-
-### 3. Decentralized Inference
-We connect to a decentralized grid of Inference providers to offer **1000+ SOTA models** at the lowest possible cost.
+* **No wallet extension** — no MetaMask or Phantom required.
+* **Social login** — sign in with Google, GitHub, or email.
+* **Gasless** — we sponsor network fees. You only pay for AI inference in USDC.
