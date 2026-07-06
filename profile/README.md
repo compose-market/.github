@@ -20,3 +20,9 @@ You do not need to be a crypto expert. Compose.Market uses ERC-4337 account abst
 * **No wallet extension** — no MetaMask or Phantom required.
 * **Social login** — sign in with Google, GitHub, or email.
 * **Gasless** — we sponsor network fees. You only pay for AI inference in USDC.
+
+Read more:
+- [Manowar Harness](https://github.com/compose-market/runtime/blob/main/src/manowar/README.md)
+- [Inference Framework](https://github.com/compose-market/api/blob/main/inference/README.md)
+- [Compose x402 Facilitator](https://github.com/compose-market/api/blob/main/inference/README.md)
+- [More fun stuff](https://github.com/compose-market/docs)
